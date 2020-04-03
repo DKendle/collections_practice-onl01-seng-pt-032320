@@ -41,6 +41,6 @@ def find_a(array)
   
   array.find do |n|
     start_with?("a")  
-      
+    end
 end
 
